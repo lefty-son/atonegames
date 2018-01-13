@@ -1,8 +1,38 @@
+html {
+    display: block;
+}
+
+article {
+    
+}
+
 body {
     background-color: #3f3d3d;
     color: #999999;
-    margin: auto;
+    margin: 10vh;
     text-align: center;
+}
+
+img {
     display: block;
+}
+
+div {
+    display: block;
+}
+
+.badges  {
+    display: flex;
+}
+
+.badges > img {
+    
+}
+
+.badges > a {
+    margin: auto;  /* Magic! */
+	display: block;
+    max-width: 20%;
+    max-height: 20%;
 }
 
