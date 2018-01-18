@@ -19,6 +19,15 @@ body {
     margin-bottom: 8vh;
 }
 
+.doggy {
+    margin: auto;
+    width: 10vh;
+}
+
+.center_img {
+    margin:auto;
+}
+
 article {
     padding: 1vh;
 }
@@ -38,8 +47,9 @@ div {
 }
 
 .badges > img {
-    margin: auto;  
+    width: 320px;
+    /* margin: auto;  
 	display: block;
     max-width: 20%;
-    max-height: 20%;
+    max-height: 20%; */
 }
